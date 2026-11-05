@@ -1,0 +1,5 @@
+<resources>
+    <string name="notif_channel_progress">Прогресс печати</string>
+    <string name="notif_channel_alerts">Оповещения о печати</string>
+    <string name="notif_monitor_title">Слежу за принтерами</string>
+</resources>
